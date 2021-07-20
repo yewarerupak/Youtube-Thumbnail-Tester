@@ -1,0 +1,2 @@
+rootProject.name = "YoutubeThumbnailApp"
+include ':app'
